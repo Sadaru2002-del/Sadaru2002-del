@@ -4,7 +4,7 @@
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/Sadaru2002-del">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=⚡+Hi+there!+I'm+Gihan+Suminda+👋;🚀+Software+Engineer+%26+Full-Stack+Architect;💻+MERN+%26+Modern+Enterprise+Web+Specialist;🏢+Architecting+Scalable+Digital+Solutions;🎯+Ready+to+Build+Your+Next+Big+Idea!+🔥" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Gihan+Suminda;Software+Engineer+%26+Full-Stack+Developer;Building+Scalable+Web+%26+Enterprise+Platforms;MERN+Stack+%26+Modern+Cloud+Architectures;Available+for+Freelance+%26+Engineering+Roles" alt="Typing Headline" />
   </a>
 
   <br />
@@ -12,9 +12,9 @@
   <!-- Status Badges -->
   <p>
     <a href="https://github.com/Sadaru2002-del">
-      <img src="https://img.shields.io/badge/Status-🟢%20Available%20for%20Hire%20%26%20Projects-2ea44f?style=for-the-badge&logoColor=white" alt="Available for Hire" />
+      <img src="https://img.shields.io/badge/Status-Available%20for%20Hire%20%26%20Projects-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" alt="Available for Hire" />
     </a>
-    <img src="https://img.shields.io/badge/Experience-Undergraduate%20%40%20Saegis%20Campus-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Campus Badge" />
+    <img src="https://img.shields.io/badge/Education-Saegis%20Campus%20Undergraduate-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Campus Badge" />
     <img src="https://komarev.com/ghpvc/?username=Sadaru2002-del&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
