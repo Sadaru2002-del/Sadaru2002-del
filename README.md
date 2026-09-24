@@ -1,136 +1,257 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,34,42&height=220&section=header&text=Gihan%20Suminda&fontSize=46&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=60&descAlign=50" width="100%" alt="Header" />
-</div>
+  <!-- Dynamic Top Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,32,45&height=230&section=header&text=Gihan%20Suminda&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descAlign=50" width="100%" alt="Gihan Suminda Banner" />
 
-<div align="center">
+  <!-- Animated Typing Headline -->
   <a href="https://github.com/Sadaru2002-del">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Gihan+Suminda+👋;Full+Stack+Web+Developer+💻;Undergraduate+at+Saegis+Campus+🎓;Turning+Ideas+into+Scalable+Code+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=⚡+Hi+there!+I'm+Gihan+Suminda+👋;🚀+Software+Engineer+%26+Full-Stack+Architect;💻+MERN+%26+Modern+Enterprise+Web+Specialist;🏢+Architecting+Scalable+Digital+Solutions;🎯+Ready+to+Build+Your+Next+Big+Idea!+🔥" alt="Typing Headline" />
   </a>
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sadaru2002-del&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+  <br />
+
+  <!-- Status Badges -->
+  <p>
+    <a href="https://github.com/Sadaru2002-del">
+      <img src="https://img.shields.io/badge/Status-🟢%20Available%20for%20Hire%20%26%20Projects-2ea44f?style=for-the-badge&logoColor=white" alt="Available for Hire" />
+    </a>
+    <img src="https://img.shields.io/badge/Experience-Undergraduate%20%40%20Saegis%20Campus-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Campus Badge" />
+    <img src="https://komarev.com/ghpvc/?username=Sadaru2002-del&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
 
 <br />
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Executive Summary & Engineering Profile
 
 ```yaml
-name: Gihan Suminda
-role: Full-Stack Developer & Software Engineering Student
-campus: Saegis Campus, Sri Lanka 🇱🇰
-motto: "Try and try, one day you can fly"
-passions:
-  - Building scalable web applications & enterprise platforms
-  - Crafting responsive, modern user interfaces
-  - Designing robust RESTful APIs & database architectures
+candidate:
+  name: Gihan Suminda
+  title: Software Engineer & Full-Stack Developer
+  education: Undergraduate in Software Engineering @ Saegis Campus, Sri Lanka 🇱🇰
+  core_focus: Scalable Web Platforms, Enterprise Systems, Clean Architecture
+  philosophy: "Try and try, one day you can fly" — Delivering engineering excellence through relentless iteration.
+  strengths:
+    - End-to-End Full Stack Development (Frontend, Backend, Database)
+    - Enterprise Software Architecture & Secure REST API Design
+    - High-Performance UI/UX & Responsive Engineering
 ```
 
-- 🎓 Currently pursuing higher education in **Software Engineering** at **Saegis Campus**.
-- 🚀 Actively developing full-stack projects including enterprise platforms, management systems, and e-commerce apps.
-- 💡 Notable project: **[Chathudisa OS](https://github.com/Sadaru2002-del/Chathudisa-OS)** — a scalable enterprise platform combining corporate systems, CRM, project management, and AI tools.
-- 💬 Ask me about **JavaScript, React, Node.js, Express, and Database Systems**.
-- 📫 Reach out to collaborate on interesting open-source or commercial projects!
+> **A driven and versatile Software Engineer / Full-Stack Developer** with proven hands-on experience designing and delivering robust web solutions, enterprise management platforms, and distributed digital tools. Focused on writing **clean, maintainable, production-ready code** with modern architectural best practices.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 💎 What I Bring to Your Team / Project
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Robust Full-Stack Engineering</h4>
+      <ul>
+        <li><b>Frontend Excellence:</b> Dynamic, component-driven user interfaces built with React, TypeScript, and modern styling libraries (Tailwind CSS, Bootstrap).</li>
+        <li><b>Scalable Backend Architecture:</b> High-throughput RESTful APIs, modular controller-service layers, and middleware utilizing Node.js & Express.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Data Engineering & Security</h4>
+      <ul>
+        <li><b>Database Design:</b> Schema modeling, aggregation pipelines, and relational query optimization (MongoDB, MySQL, PostgreSQL).</li>
+        <li><b>Enterprise Security:</b> Authentication flows (JWT, session security), RBAC authorization, and input validation.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Production-Ready Solutions</h4>
+      <ul>
+        <li><b>Enterprise Systems:</b> Hands-on experience developing end-to-end platforms like <b>Chathudisa OS</b> (CRM, Team Management, Admin Dashboards, AI Tools).</li>
+        <li><b>Management Platforms:</b> Scalable solutions for hospital operations, point-of-sale (POS), and e-commerce workflows.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Collaborative Engineering Mindset</h4>
+      <ul>
+        <li><b>Modern Tooling:</b> Git version control, Postman API testing, Agile/Scrum teamwork, and CI/CD automated deployment.</li>
+        <li><b>Problem Solver:</b> Rapid adaptability to new technology stacks, clean documentation, and attention to detail.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Arsenal & Skills Matrix
 
 <div align="center">
 
-#### 💻 Programming Languages
+#### 🌟 Primary Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres&perline=11" alt="Core Tech Stack" />
+  </a>
 </p>
 
-#### 🌐 Frontend Development
+#### 🧰 Languages, Tools & Development Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-#### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-</p>
-
-#### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-#### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,postman,figma,vercel,npm&perline=11" alt="Tools and Platforms" />
+  </a>
 </p>
 
 </div>
 
+<br />
+
 ---
 
-### 📊 GitHub Analytics
+### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <a href="https://github.com/Sadaru2002-del">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sadaru2002-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gihan's GitHub Stats" height="175" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaru2002-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sadaru2002-del&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+---
+
+### 📊 Live Performance & Engineering Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sadaru2002-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="185" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaru2002-del&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="185" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sadaru2002-del&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <a href="https://github.com/Sadaru2002-del">
-    <img src="https://streak-stats.demolab.com/?user=Sadaru2002-del&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadaru2002-del&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph" />
 </div>
 
----
-
-### 🌟 Featured Repositories
-
-| Project | Description | Tech / Domain |
-|:---|:---|:---:|
-| 🏢 **[Chathudisa OS](https://github.com/Sadaru2002-del/Chathudisa-OS)** | Scalable enterprise platform for software companies combining team portfolio, CRM, AI tools, and admin dashboard | Full-Stack Enterprise |
-| 🏥 **[Hospital Management System](https://github.com/Sadaru2002-del/Hospital-mangement-system-)** | Full-stack platform to manage patients, doctors, appointments, and hospital operations efficiently | Full-Stack Web App |
-| 💳 **[POS System](https://github.com/Sadaru2002-del/pos-system)** | Modern point-of-sale system for managing inventory, sales, and checkout workflows | Full-Stack / Software |
-| 🛍️ **[Aura Fashion](https://github.com/Sadaru2002-del/aura-fashion)** | E-commerce fashion platform with responsive design, product catalog, and cart flows | E-Commerce Web |
+<br />
 
 ---
 
-### 🤝 Connect with Me
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sadaru2002-del/Sadaru2002-del/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sadaru2002-del/Sadaru2002-del/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Sadaru2002-del/Sadaru2002-del/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br />
+
+---
+
+### 🚀 Highlighted Engineering Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="45%">Description & Key Engineering Highlights</th>
+      <th width="20%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>🏢 <a href="https://github.com/Sadaru2002-del/Chathudisa-OS">Chathudisa OS</a></b>
+        <br />
+        <sub><i>Scalable Enterprise Platform</i></sub>
+      </td>
+      <td>
+        A comprehensive enterprise solution engineered for software firms. Features a corporate portfolio, full client portal, project management board, CRM pipeline, AI-powered developer utilities, and an integrated admin control center.
+      </td>
+      <td>
+        <code>React</code> <code>Node.js</code><br />
+        <code>Express</code> <code>MongoDB</code><br />
+        <code>Tailwind CSS</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🏥 <a href="https://github.com/Sadaru2002-del/Hospital-mangement-system-">Hospital Management System</a></b>
+        <br />
+        <sub><i>Full-Stack Healthcare Operations Suite</i></sub>
+      </td>
+      <td>
+        Engineered to streamline hospital management: automated doctor-patient appointments, electronic medical records (EMR), staff scheduling, and billing workflows with secure role-based access.
+      </td>
+      <td>
+        <code>Full-Stack</code><br />
+        <code>REST APIs</code><br />
+        <code>Database Architecture</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>💳 <a href="https://github.com/Sadaru2002-del/pos-system">Next-Gen POS & Inventory</a></b>
+        <br />
+        <sub><i>Point-of-Sale & Retail Management</i></sub>
+      </td>
+      <td>
+        High-performance point-of-sale software equipped with real-time inventory tracking, barcode generation/scanning support, invoice billing, and analytical sales reporting.
+      </td>
+      <td>
+        <code>JavaScript</code><br />
+        <code>Backend API</code><br />
+        <code>SQL / NoSQL</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🛍️ <a href="https://github.com/Sadaru2002-del/aura-fashion">Aura Fashion E-Commerce</a></b>
+        <br />
+        <sub><i>Modern Online Retail Storefront</i></sub>
+      </td>
+      <td>
+        Full-featured shopping platform with rich product filtering, responsive UI design, cart/checkout management, and streamlined customer ordering flows.
+      </td>
+      <td>
+        <code>Modern Frontend</code><br />
+        <code>RESTful Services</code><br />
+        <code>State Management</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📬 Let's Connect & Build Something Exceptional!
+
+Whether you have an exciting software engineering vacancy, need a scalable full-stack application built, or want to collaborate on innovative tech:
 
 <div align="center">
   <a href="https://github.com/Sadaru2002-del" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,34,42&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,32,45&height=120&section=footer" width="100%" alt="Footer" />
 </div>
