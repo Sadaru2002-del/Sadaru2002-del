@@ -32,6 +32,8 @@
 │ > CODENAME    : Sadaru                                                      │
 │ > DESIGNATION : Software Engineer & Full-Stack System Architect             │
 │ > ACADEMY     : Undergraduate in Software Engineering @ Saegis Campus 🇱🇰     │
+│ > EMAIL       : slsadaru2002@gmail.com                                      │
+│ > LINKEDIN    : linkedin.com/in/gihan-suminda-a55330321                     │
 │ > CORE ENGINE : React.js • TypeScript • Node.js • Express • NoSQL / SQL     │
 │ > PROTOCOL    : Clean Architecture • High-Availability • Modular Systems   │
 │ > DIRECTIVE   : "Try and try, one day you can fly"                          │
@@ -237,12 +239,12 @@ Have a high-impact engineering role, need an enterprise-grade full-stack platfor
     <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Encrypted%20Transmission-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:slsadaru2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-slsadaru2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/gihan-suminda-a55330321" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gihan%20Suminda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
