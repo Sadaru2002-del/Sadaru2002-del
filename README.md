@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Cyberpunk High-Tech Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cyber&color=gradient&customColorList=2,12,24,30&height=220&section=header&text=GIHAN%20SUMINDA&fontSize=48&fontAlignY=38&desc=CYBER-ENGINEER%20%7C%20FULL-STACK%20ARCHITECT&descAlignY=58&descAlign=50" width="100%" alt="Cyberpunk Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=220&section=header&text=GIHAN%20SUMINDA&fontSize=48&fontAlignY=38&desc=CYBER-ENGINEER%20%7C%20FULL-STACK%20ARCHITECT&descAlignY=58&descAlign=50" width="100%" alt="Cyberpunk Banner" />
 
   <!-- Sci-Fi Orbitron Typing HUD -->
   <a href="https://github.com/Sadaru2002-del">
@@ -249,5 +249,5 @@ Have a high-impact engineering role, need an enterprise-grade full-stack platfor
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cyber&color=gradient&customColorList=2,12,24,30&height=100&section=footer" width="100%" alt="Cyber Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=100&section=footer" width="100%" alt="Cyber Footer" />
 </div>
