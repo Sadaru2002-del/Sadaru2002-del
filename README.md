@@ -108,7 +108,7 @@ candidate:
 ### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sadaru2002-del&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.devomb.com/?username=Sadaru2002-del&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -121,21 +121,17 @@ candidate:
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sadaru2002-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="185" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Sadaru2002-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="185" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaru2002-del&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="185" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sadaru2002-del&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="185" />
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <img src="https://streak-stats.demolab.com/?user=Sadaru2002-del&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadaru2002-del&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph" />
 </div>
 
 <br />
