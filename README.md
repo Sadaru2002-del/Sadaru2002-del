@@ -1,21 +1,23 @@
 <div align="center">
-  <!-- Cyberpunk High-Tech Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=220&section=header&text=GIHAN%20SUMINDA&fontSize=48&fontAlignY=38&desc=CYBER-ENGINEER%20%7C%20FULL-STACK%20ARCHITECT&descAlignY=58&descAlign=50" width="100%" alt="Cyberpunk Banner" />
+  <!-- Smooth Waving Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,42,60&height=220&section=header&text=Gihan%20Suminda&fontSize=48&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Undergraduate%20%40%20Saegis%20Campus&descAlignY=58&descAlign=50" width="100%" alt="Gihan Suminda Banner" />
 
-  <!-- Sci-Fi Orbitron Typing HUD -->
+  <!-- Smooth Poppins Typing Headline -->
   <a href="https://github.com/Sadaru2002-del">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+DEVELOPER+PROTOCOL...;%3E+GIHAN+SUMINDA+%7C+FULL-STACK+SOFTWARE+ENGINEER;%3E+ARCHITECTING+SCALABLE+ENTERPRISE+SOLUTIONS;%3E+MERN+STACK+%2B+MODERN+CLOUD+SYSTEMS;%3E+SYSTEM+STATUS%3A+OPEN+FOR+HIGH-IMPACT+PROJECTS" alt="Cyberpunk Typing HUD" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Gihan+Suminda;Full-Stack+Software+Engineer;Building+Scalable+Web+%26+Cloud+Platforms;Passionate+about+Clean+Code+%26+Architecture;Open+to+Exciting+Engineering+Opportunities" alt="Typing Headline" />
   </a>
 
   <br />
 
-  <!-- Cyber Telemetry Status Badges -->
+  <!-- Smooth Rounded Pill Badges -->
   <p>
     <a href="https://github.com/Sadaru2002-del">
-      <img src="https://img.shields.io/badge/SYS_STATUS-ONLINE%20%2F%20FOR%20HIRE-00ff66?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status Online" />
+      <img src="https://img.shields.io/badge/Status-🟢%20Available%20for%20Hire-2ea44f?style=flat&logoColor=white" alt="Status Online" />
     </a>
-    <img src="https://img.shields.io/badge/CLEARANCE-SAEGIS%20CAMPUS%20UNDERGRADUATE-00f0ff?style=for-the-badge&logo=matrix&logoColor=black" alt="Clearance Badge" />
-    <img src="https://komarev.com/ghpvc/?username=Sadaru2002-del&label=TELEMETRY%20VIEWS&color=7928CA&style=for-the-badge" alt="Profile Views" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Education-Saegis%20Campus%20Undergraduate-6366F1?style=flat&logo=googlescholar&logoColor=white" alt="Campus Badge" />
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Sadaru2002-del&label=Profile%20Views&color=7928CA&style=flat" alt="Profile Views" />
   </p>
 </div>
 
@@ -23,24 +25,15 @@
 
 ---
 
-### 🛸 Developer Terminal // Identity HUD
+### 👨‍💻 About Me & Engineering Profile
 
-```yaml
-╭─────────────────────────────────────────────────────────────────────────────╮
-│ ⚡ IDENTITY HUD : GIHAN SUMINDA                                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ > CODENAME    : Sadaru                                                      │
-│ > DESIGNATION : Software Engineer & Full-Stack System Architect             │
-│ > ACADEMY     : Undergraduate in Software Engineering @ Saegis Campus 🇱🇰     │
-│ > EMAIL       : slsadaru2002@gmail.com                                      │
-│ > LINKEDIN    : linkedin.com/in/gihan-suminda-a55330321                     │
-│ > CORE ENGINE : React.js • TypeScript • Node.js • Express • NoSQL / SQL     │
-│ > PROTOCOL    : Clean Architecture • High-Availability • Modular Systems   │
-│ > DIRECTIVE   : "Try and try, one day you can fly"                          │
-╰─────────────────────────────────────────────────────────────────────────────╯
-```
+- 🎓 **Education:** Undergraduate in Software Engineering @ **Saegis Campus, Sri Lanka** 🇱🇰
+- 💼 **Focus:** Full-Stack Web Development, Enterprise System Architectures, Cloud Deployments
+- 🚀 **Projects:** Creator of **[Chathudisa OS](https://github.com/Sadaru2002-del/Chathudisa-OS)**, Hospital Management Systems, and Retail Platforms
+- 📬 **Get in Touch:** [slsadaru2002@gmail.com](mailto:slsadaru2002@gmail.com) • [LinkedIn Profile](https://linkedin.com/in/gihan-suminda-a55330321)
+- ⚡ **Philosophy:** *"Try and try, one day you can fly"*
 
-> **A visionary Software Engineer & Full-Stack Architect** with a passion for designing bulletproof digital infrastructures. Specializing in transforming intricate business requirements into resilient, enterprise-grade platforms with high-throughput backend services and fluid, reactive frontends.
+> **A visionary Software Engineer & Full-Stack Architect** with a passion for designing resilient digital platforms. Specializing in transforming complex logic into scalable, high-performance systems with clean architecture.
 
 ---
 
